@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/priyanshunagariya16.github.io/word-count/static/css/main.d299ff1b.css",
+    "main.js": "/priyanshunagariya16.github.io/word-count/static/js/main.3e21298c.js",
+    "static/js/787.f2512186.chunk.js": "/priyanshunagariya16.github.io/word-count/static/js/787.f2512186.chunk.js",
+    "index.html": "/priyanshunagariya16.github.io/word-count/index.html",
+    "main.d299ff1b.css.map": "/priyanshunagariya16.github.io/word-count/static/css/main.d299ff1b.css.map",
+    "main.3e21298c.js.map": "/priyanshunagariya16.github.io/word-count/static/js/main.3e21298c.js.map",
+    "787.f2512186.chunk.js.map": "/priyanshunagariya16.github.io/word-count/static/js/787.f2512186.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d299ff1b.css",
+    "static/js/main.3e21298c.js"
+  ]
+}
